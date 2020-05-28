@@ -30,3 +30,16 @@ p#featured-property {
   width: 800px;
   text-align: center;
 }
+
+div#details {
+  float: left;
+}
+
+details {
+  display: block;
+}
+
+div {
+  background-color: blue;
+  text-align: center;
+}
